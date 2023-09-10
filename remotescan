@@ -20,7 +20,7 @@ tempList = {}
 print("------------------------------------------------------------------")
 print("IMPORTANT : Do not die whilst using this.")
 print("------------------------------------------------------------------")
-print("Remote Vulnerability Scanner -- Made by Athenian")
+print("Remote Vulnerability Scanner -- Made by RightAngleRamp")
 print("------------------------------------------------------------------")
 
 for _,mem in pairs(BlackList) do -- testing purposes
